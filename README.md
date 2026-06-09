@@ -22,20 +22,23 @@ Improve UI/UX and development practices
 📂 Projects List:
 
 
-🔐 1. Random Password Generator
+🔐 1. Random Password Generator: 
 Generates secure 8-character passwords
 Includes uppercase, lowercase, numbers, and symbols
 Interactive UI with button-based generation
+Demo:https://ranmpasswordgenerator.netlify.app/
 
 👉 Tech Used: JavaScript, HTML, CSS
 
-🌐 2. Basic Calculator
+🌐 2. Basic Calculator: 
 Responsive and modern UI design
 Mobile-friendly layout
+Demo:https://bacalculatorr.netlify.app/
 
 👉 Tech Used: HTML, CSS, JavaScript
 
-📊 3. Digital Clock
+📊 3. Digital Clock: 
 Basic Digital clock designed in reference to BAM skyline.
+Demo: https://digitalclockbassic.netlify.app/
 
 👉 Tech Used: JavaScript, Tailwind CSS,HTML
