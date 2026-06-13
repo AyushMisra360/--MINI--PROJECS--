@@ -1,4 +1,5 @@
-<div align="center"> # --MINI--PROJECTS--
+<div align="center">
+  # --MINI--PROJECTS--
 
   <p align="center">
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" /></a>
@@ -6,11 +7,6 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
     <a href="https://tailwindcss.com"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" /></a>
     <a href="https://www.netlify.com"><img src="https://skillicons.dev/icons?i=netlify" alt="Netlify" /></a>
-  </p>
-
-  <p align="center">
-    <img src="https://img.shields.io/badge/LICENSE-GPL--3.0-brightgreen?style=flat-square" alt="License" />
-    <img src="https://img.shields.io/badge/PRS-WELCOME-green?style=flat-square" alt="PRs Welcome" />
   </p>
 
 </div>
