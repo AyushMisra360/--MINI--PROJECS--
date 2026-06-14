@@ -42,6 +42,7 @@ Improve UI/UX and development practices
 Generates secure 8-character passwords
 Includes uppercase, lowercase, numbers, and symbols
 Interactive UI with button-based generation
+
 Demo:https://ranmpasswordgenerator.netlify.app/
 
 👉 Tech Used: JavaScript, HTML, CSS
